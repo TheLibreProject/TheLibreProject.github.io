@@ -25,7 +25,6 @@ Do not recruit who does not follow this philosophy above. You need to only recru
 
 ## Communities that follows the philosophy
 * [Ah_Roon's Paradise](https://ahroonsparadise.github.io)
-* [PCBSCalc](https://pcbscalc.github.io)
 
 Will be reviewed and updated if there is community which follows our philosophy.
 
