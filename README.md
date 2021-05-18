@@ -2,25 +2,30 @@
 This project defines the community's philosophy.
 
 ## The community's philosophy? What are you talking about?
-Many communities are being toxic, sometimes they remove topics which doesn't like and banning person who do not follow the owner.
+Most of communities are being toxic, sometimes they make non-existent rules, censors topic, and sometimes their staff member abuse their power.
 To fix these problems, we made the philosophy when managing the communities.
 
 ## Philosophy
+Last updated: May 18, 2021
+
 ### Do NOT be nitpicky
 This is the most part which communities does not follow.
 
-Do not be nitpicky all times. Many people will leave from your community if you keep being nitpicky.
+Do not be nitpicky all times. Many people will leave from your community if you keep being nitpicky. Try to tell them politely. (Example: "Can you not ~" is polite)
 
 ### Do not censor topics.
-Well this is obvious, do not censor topic. Each person has different opinions and we should respect them. Censoring or removing the topic will not help you in any way. Just stop removing it. However, you can choose to allow or disallow NSFW topics if you want, it is your decision, but remember not to be strict and let them know that is not allowed.
+Well this is obvious, do not censor topic. Each person has different opinions and we should respect them. Censoring or removing the topic will not help you in any way. Just stop removing it. If you really need to censor specific topic (Such as NSFW, offensive content), make sure you specify them in the rules.
 
 ### Listen to member's feedback
-Always remember to listen the member's feedback. This allows you know how to improve the community. Ignoring the feedback will have relationship and will leave from your community. If you don't want make them leave, just listen carefully to feedback.
+Always remember to listen the member's feedback. This allows you know how to improve the community. Ignoring the feedback will make people leave from your community or make alternative one. If you don't want make them leave, just listen carefully to the feedback.
 
 ### If you find someone doing wrong, kindly ask them not to do.
 If you find someone is breaking rules, kindly ask them to stop. Being nitpicky is not an answer for that situation. Remember, you still may not be strict and nitpicky all times.
 
-### (Owners or person who recruit moderators only) Recruit kind members.
+### Keep the rules simple, stupid!
+Yeah, the title says it all. Try not to create strict rules, since most people does not want to be active on strict place.
+
+### Recruit kind members.
 Do not recruit who does not follow this philosophy above. You need to only recruit kind member. If your community have worst staff member, you need to terminate them immediately.
 
 ## Communities that follows the philosophy
