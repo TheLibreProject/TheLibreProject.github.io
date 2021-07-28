@@ -25,8 +25,11 @@ If you find someone is breaking rules, kindly ask them to stop. Being nitpicky i
 ### Keep the rules simple, stupid!
 Yeah, the title says it all. Try not to create strict rules, since most people does not want to be active on strict place.
 
-### Recruit kind members.
-Do not recruit who does not follow this philosophy above. You need to only recruit kind member. If your community have worst staff member, you need to terminate them immediately.
+### Only recruit members who follows above philosophy.
+Do not recruit who does not follow this philosophy above. You need to only recruit moderators who follows the philosophy above. If your community have worst staff member, you need to terminate them immediately.
+
+### Provide clear information when collecting user's personal information.
+You should provide clear information when collecting user's personal information. Many communities does not follow them and use it without user's permission. Use Privacy Policy for this. It is same as GDPR.
 
 ## Communities that follows the philosophy
 * [Ah_Roon's Paradise](https://ahroonsparadise.github.io)
